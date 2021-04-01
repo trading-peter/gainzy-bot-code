@@ -1,2 +1,3 @@
 # gainzy-bot-code
-Please don't share
+
+![HFSP](https://media.giphy.com/media/g7GKcSzwQfugw/giphy.gif "Rolled")
